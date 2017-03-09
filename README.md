@@ -1,1 +1,1 @@
-# atanasovMartin
+# atanasovMartin directory of all blog files
